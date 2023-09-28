@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695943002 source:c:\users\giova\documents\programacion-2023\poo\tp2\empleados\empleados\main.cpp
+	<iostream>
+	<cstring>
+	"fecha.h"
+
+1695930174 c:\users\giova\documents\programacion-2023\poo\tp2\empleados\empleados\fecha.h
+
