@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696890514 source:c:\users\giova\documents\programacion-2023\archivos\sube\sube\main.cpp
+	<iostream>
+	"fecha.h"
+	"tarjeta.h"
+
+1696611718 c:\users\giova\documents\programacion-2023\archivos\sube\sube\fecha.h
+
+1696898189 c:\users\giova\documents\programacion-2023\archivos\sube\sube\tarjeta.h
+	<cstring>
+
