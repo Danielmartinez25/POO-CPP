@@ -1,6 +1,7 @@
 #include <iostream>
 
 using namespace std;
+
 class Fecha
 {
 private:
@@ -46,3 +47,10 @@ int main()
     fec.Mostrar();
     return 0;
 }
+
+int getNroTarjeta() { return nroTarjeta; }
+int getDiaAlta() { return fechaAlta.getDia(); }
+int getMesAlta() { return fechaAlta.getMes(); }
+int getAnioAlta() { return fechaAlta.getAnio(); }
+int getDNI() { return dni; }
+float getSaldo() { return saldo; }
